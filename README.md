@@ -9,7 +9,7 @@ curl --location --request GET 'http://localhost:8080/v1/user/' \
     "password": "arfian"
 }'
 ```
-#### Response:****
+#### Response:
 ```
 {
     "errorCode": 200,
