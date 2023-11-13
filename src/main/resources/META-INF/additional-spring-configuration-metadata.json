@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "aws",
+      "type": "java.lang.String",
+      "description": "Description for aws."
+  }
+] }
